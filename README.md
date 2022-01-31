@@ -1,2 +1,4 @@
 # bowHip
-Android phone Dialer — recent Call / SMS organizer:  ★Tags ✓ ▪ →  Appointments,  ߉Maps,  ⇄Team Collab, QSMS and more.
+Android phone Dialer<br>
+Recent Call and SMS organizer<br><br>  
+★Tags  Tasks✓ ▪ →  Appointments  ߉Maps  ⇄Team Collab  QSMS and more.
