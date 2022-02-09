@@ -1,4 +1,4 @@
-# bowHip
+# bowHip.org
 <b>Android mobile app</b><br>
 Helps you to organize your Recent Calls and SMS msgs with: ★Tags  ✓Tasks  𑀫Appointments  ߉Maps  ⇄Team Collab, QuickSMS and more.<br>
 
