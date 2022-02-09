@@ -10,24 +10,18 @@ Organize your recent phone calls & SMS msgs.<br>
 Tag calls: ★Star ✓Done  •In- process  →Followup...<br><br>
 
 ADDITIONAL FEATURES<br><br>
-߉ Appointments, Maps, Team collab
 
-Attach pics & vids customer feedback.
+ - Appointments, Maps, Team collab
+ - Attach pics & vids customer feedback.
+ - Track referrals sent/received to affiliate.
+ - EasyMsgs send pre-written msgs
+ - Calendar Shows your Tags and Appointments added from bowHip.
 
-Track referrals sent/received to affiliate.
-
-EasyMsgs send pre-written msgs
-
-Calendar Shows your Tags and Appointments added from bowHip.
-
-Other use cases
+**Other use cases**<br>
 When using phone to buy & sell stuff:
-
-a pet, a phone or computer, promoting stuff, shopping for insurances & other services. also -
-
-Tag/rank calls that are potentials and were a purchase/sell is made.
-
-works well for making temporary contacts.  
+ - a pet, a phone or computer, promoting stuff, shopping for insurances & other services.
+ - Tag/rank calls that are potentials and were a purchase/sell is made.
+ - works well for making temporary contacts.  
 
 Reward for first 500 github installers!
 <hr />
