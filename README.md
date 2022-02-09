@@ -10,7 +10,7 @@ Helps you to organize your Recent Calls and SMS msgs with: ★Tags  ✓Tasks �
 
 <small>ABOUT<br>
 Organize your recent phone calls & SMS msgs.<br>
-     ★<a href="https://bowhip.org/img/screen/2_8.png" alt="star phone calls">Star</a> <a href="https://bowhip.org/img/screen/6_8.png" alt="Mobile app to task caller records">Task:</a> ✓Done  •In- process  →Followup...<br><br>
+     ★<a href="https://bowhip.org/img/screen/2_8.png" alt="star phone calls">Star</a> recent calls.  <a href="https://bowhip.org/img/screen/6_8.png" alt="Mobile app to task caller records">Task calls:</a> ✓Done  •In- process  →Followup...<br><br>
 
 ADDITIONAL FEATURES<br>
  - Appointments, Maps, Team collab
