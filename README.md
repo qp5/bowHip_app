@@ -10,7 +10,7 @@ Helps you to organize your Recent Calls and SMS msgs with: ★Tags  ✓Tasks �
 
 <small>ABOUT<br>
 Organize your recent phone calls & SMS msgs.<br>
-Tag calls: ★Star ✓Done  •In- process  →Followup...<br><br>
+     Tag calls: ★<a href="/img/screen/2_8.png" alt="star phone calls">Star</a> ✓Done  •In- process  →Followup...<br><br>
 
 ADDITIONAL FEATURES<br>
  - Appointments, Maps, Team collab
