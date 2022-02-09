@@ -5,10 +5,11 @@ Helps you to organize your Recent Calls and SMS msgs with: ★Tags  ✓Tasks �
 <a target="_blank" href="https://bowhip.org">bowHip</a>  |  <a href="https://bowhip.org/bowHip_1.5.3.apk">Get<u>↓</u></a>  |  <a target="_blank" href="https://bowhip.blogspot.com/2022/02/bowhip-phone-call-sms-organizer-mobile.html">Support</a>  |  <a target="_blank" href="https://bowhip.org/Help-installing-apk-to-mobile-device.html">Help with install</a><br><br>
 
 <hr /> 
-Organize your recent phone calls & SMS msgs.
-Tag calls: ★Star ✓Done  •In- process  →Followup...
+FEATURES<br>
+Organize your recent phone calls & SMS msgs.<br>
+Tag calls: ★Star ✓Done  •In- process  →Followup...<br><br>
 
-ADDITIONAL FEATURES
+ADDITIONAL FEATURES<br><br>
 ߉ Appointments, Maps, Team collab
 
 Attach pics & vids customer feedback.
@@ -17,7 +18,7 @@ Track referrals sent/received to affiliate.
 
 EasyMsgs send pre-written msgs
 
- Calendar Shows your Tags and Appointments added from bowHip.
+Calendar Shows your Tags and Appointments added from bowHip.
 
 Other use cases
 When using phone to buy & sell stuff:
