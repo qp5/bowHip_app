@@ -1,6 +1,6 @@
 # bowHip
 <b>Android mobile app</b><br>
-Recent Call and SMS organizer<br>
+Recent Call and SMS organizer  
 <a href="https://bowhip.org">bowHip.org</a><br>  
 ★Tags  ✓Tasks  𑀫Appointments  ߉Maps  ⇄Team Collab, QuickSMS and more.
 
