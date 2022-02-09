@@ -10,22 +10,22 @@ Helps you to organize your Recent Calls and SMS msgs with: ★Tags  ✓Tasks �
 
 <small>ABOUT<br>
 Organize your recent phone calls & SMS msgs.<br>
-     ★<a href="https://bowhip.org/img/screen/2_8.png" alt="star phone calls">Star</a> recent calls.  <a href="https://bowhip.org/img/screen/6_8.png" alt="Mobile app to task caller records">Task calls:</a> ✓Done  •In- process  →Followup...<br><br>
+     ★<a href="https://bowhip.org/img/screen/2_8.png" alt="star phone calls">Star</a> recent calls.  Task calls: ✓Done  •In- process  →Followup...<br><br>
 
 ADDITIONAL FEATURES<br>
- - Appointments, Maps, Team collab
+     - <a href="https://bowhip.org/img/screen/3_8.png" alt="Mobile Appointments">Appointments</a>, Maps, Team collab
  - Attach pics & vids customer feedback.
  - Track referrals sent/received to affiliate.
- - EasyMsgs send pre-written msgs
+ - <a href="https://bowhip.org/img/screen/7_8.png" alt="Mobile Appointments">EasyMsg</a> send pre-written SMS text msgs.
  - Calendar Shows your Tags and Appointments added from bowHip.
 
 **Other use cases**
 When using phone to buy & sell stuff:
  - a pet, a phone or computer, promoting stuff, shopping for insurances & other services.
  - Tag/rank calls that are potentials and were a purchase/sell is made.
- - works well for making temporary contacts.  
+ - works well for temporary & potential contacts.  
 
-Reward for first 500 github installers!</small>
+Reward for first 500 github installers! <a href="https://bowhip.org/#screenshots">See Preview</a></small>
 <hr />
 Other projects: <a href="https://github.com/qp5/FONT">FONT typeface</a>  |  <a target="_blank" href="https://codepen.io/qp5/full/WNGbLBy">Style your Mobile device</a>  |   <a target="_blank" href="https://codepen.io/qp5/project/full/ZmBrJo">Style windows 10 /11 </a>
 
