@@ -2,7 +2,7 @@
 <b>Android mobile app</b><br>
 Helps you to organize your Recent Calls and SMS msgs with: ★Tags  ✓Tasks  𑀫Appointments  ߉Maps  ⇄Team Collab, QuickSMS and more.<br>
 
-<img style="height: 380px; margin-bottom:-0px; margin-top:0px;" src="https://bowhip.org/img/calling_application.png" alt="mobile calling application"
+<img style="height: 380px; margin-bottom:-0px; margin-top:0px;" src="https://bowhip.org/img/calling_application.png" alt="mobile calling application">
      
 <img src="/r-meijerink/DeskGrid-release/raw/main/grid2.png" width="200" height="200" style="max-width: 100%;">
      
