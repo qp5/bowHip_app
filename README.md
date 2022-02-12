@@ -21,9 +21,9 @@ ADDITIONAL FEATURES<br>
 
 **Other use cases**
 When using phone to buy & sell stuff:
-       - a pet, a phone or computer, promoting stuff, shopping for insurances & other services.
-       - Tag/rank calls that are potentials and were a purchase/sell is made.
-       - works well for temporary & potential contacts.  
+       - a pet, a phone or computer, promoting stuff, shopping for insurances & other services.<br>
+       - Tag/rank calls that are potentials and were a purchase/sell is made.<br>
+       - works well for temporary & potential contacts.  <br><br>
 
 Reward for first 500 github installers! <a href="https://bowhip.org/#screenshots">Preview</a></small>
 <hr />
