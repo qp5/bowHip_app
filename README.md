@@ -25,7 +25,7 @@ When using phone to buy & sell stuff:
  - Tag/rank calls that are potentials and were a purchase/sell is made.
  - works well for temporary & potential contacts.  
 
-Reward for first 500 github installers! <a href="https://bowhip.org/#screenshots">See Preview</a></small>
+Reward for first 500 github installers! <a href="https://bowhip.org/#screenshots">Preview</a></small>
 <hr />
 Other projects: <a href="https://github.com/qp5/FONT">FONT typeface</a>  |  <a target="_blank" href="https://codepen.io/qp5/full/WNGbLBy">Style your Mobile device</a>  |   <a target="_blank" href="https://codepen.io/qp5/project/full/ZmBrJo">Style windows 10 /11 </a>
 
