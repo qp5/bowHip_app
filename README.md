@@ -8,7 +8,7 @@ Helps you to organize your Recent Calls and SMS msgs with: ★Tags  ✓Tasks �
 
 <hr /> 
 
-<small>Mobile App<br>
+<small>**Mobile App**<br>
 Organize your recent phone calls & SMS msgs.<br>
      ★<a href="https://bowhip.org/img/screen/2_8.png" alt="star phone calls">Star</a> recent calls.  Task calls: ✓Done  •In- process  →Followup...<br><br>
 
@@ -21,9 +21,9 @@ ADDITIONAL FEATURES<br>
 
 **Other use cases**
 When using phone to buy & sell stuff:
- - a pet, a phone or computer, promoting stuff, shopping for insurances & other services.
- - Tag/rank calls that are potentials and were a purchase/sell is made.
- - works well for temporary & potential contacts.  
+       - a pet, a phone or computer, promoting stuff, shopping for insurances & other services.
+       - Tag/rank calls that are potentials and were a purchase/sell is made.
+       - works well for temporary & potential contacts.  
 
 Reward for first 500 github installers! <a href="https://bowhip.org/#screenshots">Preview</a></small>
 <hr />
