@@ -20,10 +20,10 @@ ADDITIONAL FEATURES<br>
  - Calendar Shows your Tags and Appointments added from bowHip.
 
 **Other use cases**
-When using phone to buy & sell stuff:
+When using phone to buy & sell stuff:<br>
        - a pet, a phone or computer, promoting stuff, shopping for insurances & other services.<br>
        - Tag/rank calls that are potentials and were a purchase/sell is made.<br>
-       - works well for temporary & potential contacts.  <br><br>
+       - works well for temporary & potential contacts.  <br>
 
 Reward for first 500 github installers! <a href="https://bowhip.org/#screenshots">Preview</a></small>
 <hr />
