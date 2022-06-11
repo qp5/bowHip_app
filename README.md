@@ -18,15 +18,16 @@ ADDITIONAL FEATURES<br>
  - Track referrals sent/received from friends.
  - <a href="https://bowhip.org/Mobile_Easy_SMS_text_msgs.html" alt="Mobile Appointments">EasyMsg</a> send pre-written SMS text msgs.
  - Integrate your Calendar.
+ - Reminders, tags, filters & more...
 <br>
-**Use cases**<br>
-Normal use case for bus. hobby & personal use.
-When using phone to buy & sell stuff:<br>
-       - a pet, a phone or computer, promoting stuff, shopping for insurances & other services.<br>
-       - Tag/rank calls that are potentials and were a purchase/sell is made.<br>
-       - works well for temporary & potential contacts.  <br>
+**New Comunity**<br>
+Normal use case for bus. hobby & personal use.<br>
+Use for buy & sell stuff:<br>
+       - a pet, phone computer, promoting, phone shopping.<br>
+       - Tag/rank potential calls /SMS.<br>
+       - Create potential & temporary contacts.  <br>
 
-Reward for first 500 github installers! <a href="https://bowhip.org/#screenshots">Preview</a></small>
+Reward for first 2000 github installers! <a href="https://bowhip.org/#screenshots">Preview</a></small>
 <hr />
 Other projects: <a href="https://github.com/qp5/FONT">FONT typeface</a>  |  <a target="_blank" href="https://codepen.io/qp5/full/WNGbLBy">Style your Mobile device</a>  |   <a target="_blank" href="https://codepen.io/qp5/project/full/ZmBrJo">Style windows 10 /11 </a>
 
