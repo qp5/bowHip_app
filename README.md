@@ -14,9 +14,9 @@ Organize your recent phone calls & SMS msgs.<br>
 
 ADDITIONAL FEATURES<br>
      - Appointments<a href="https://bowhip.org/Mobile_Appointments.html" alt="Mobile Appointments from recent calls">𑀫⍾ </a>&nbsp;  Maps<a href="https://bowhip.org/use-my-tablet-device-with-google-maps.html" alt="Map driving route from phone">🚘 &nbsp;</a> Team collab<a href="https://bowhip.org/use-my-tablet-device-with-google-maps.html" alt="Map driving route from phone">⇆ &nbsp;</a>
- - Attach pics & vids customer feedback.
- - Track referrals sent/received from friends.
- - <a href="https://bowhip.org/Mobile_Easy_SMS_text_msgs.html" alt="Mobile Appointments">EasyMsg</a> send pre-written SMS text msgs.
+ - Attach pics & vids for customer feedback.
+ - Track sent/received referrals.
+ - <a href="https://bowhip.org/Mobile_Easy_SMS_text_msgs.html" alt="Mobile Appointments">EasyMsg</a> send pre-written text msgs.
  - Integrate your Calendar.
  - Reminders, tags, filters & more...
 <br>
