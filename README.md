@@ -21,13 +21,16 @@ ADDITIONAL FEATURES<br>
  - Reminders, tags, filters & more...
 <br>
 **New Comunity**<br>
-Normal use case for bus. hobby & personal use.<br>
-Use for buy & sell stuff:<br>
+Reward for first 2000 github installers! <a href="https://bowhip.org/#screenshots">Preview</a></small>
+<br><br>
+**Use cases**<br>
+Normal use for bus. hobby, & personal use.<br>
+As well for buy & sell stuff:<br>
        - a pet, phone computer, promoting, phone shopping.<br>
        - Tag/rank potential calls /SMS.<br>
-       - Create potential & temporary contacts.  <br>
+       - Creating potential & temporary contacts.  <br>
 
-Reward for first 2000 github installers! <a href="https://bowhip.org/#screenshots">Preview</a></small>
+
 <hr />
 Other projects: <a href="https://github.com/qp5/FONT">FONT typeface</a>  |  <a target="_blank" href="https://codepen.io/qp5/full/WNGbLBy">Style your Mobile device</a>  |   <a target="_blank" href="https://codepen.io/qp5/project/full/ZmBrJo">Style windows 10 /11 </a>
 
