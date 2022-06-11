@@ -17,7 +17,7 @@ ADDITIONAL FEATURES<br>
  - Attach pics & vids customer feedback.
  - Track referrals sent/received from friends.
  - <a href="https://bowhip.org/Mobile_Easy_SMS_text_msgs.html" alt="Mobile Appointments">EasyMsg</a> send pre-written SMS text msgs.
- - Calendar Shows your Tags and Appointments added from bowHip.
+ - Integrate your Calendar.
 <br>
 **Use cases**<br>
 Normal use case for bus. hobby & personal use.
