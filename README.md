@@ -1,6 +1,6 @@
 # bowHip
 <b>Android mobile app</b>
-Manage your recent Calls and SMS msgs with: ★Tags  ✓Tasks  𑀫Appointments  ߉Maps  ⇄Team Collab, QuickSMS and more.<br>
+Manage recent Calls and SMS msgs with: ★Tags  ✓Tasks  𑀫Appointments  ߉Maps  ⇄Team Collab, QuickSMS and more.<br>
 
 <a href="https://bowhip.org"><img style="height: 380px; margin-bottom:-0px; margin-top:0px;" src="https://bowhip.org/img/calling_application.png" alt="mobile calling application"></a>
      
