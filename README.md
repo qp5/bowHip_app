@@ -16,7 +16,7 @@ ADDITIONAL FEATURES<br>
      - Appointments<a href="https://bowhip.org/Mobile_Appointments.html" alt="Mobile Appointments from recent calls">𑀫⍾ </a>&nbsp;  Maps<a href="https://bowhip.org/use-my-tablet-device-with-google-maps.html" alt="Map driving route from phone">🚘 &nbsp;</a> Team collab<a href="https://bowhip.org/use-my-tablet-device-with-google-maps.html" alt="Map driving route from phone">⇆ &nbsp;</a>
  - Attach pics & vids customer feedback.
  - Track referrals sent/received from friends.
- - <a href="https://bowhip.org/img/screen/7_8.png" alt="Mobile Appointments">EasyMsg</a> send pre-written SMS text msgs.
+ - <a href="https://bowhip.org/Mobile_Easy_SMS_text_msgs.html" alt="Mobile Appointments">EasyMsg</a> send pre-written SMS text msgs.
  - Calendar Shows your Tags and Appointments added from bowHip.
 <br>
 **Use cases**<br>
