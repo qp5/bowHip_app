@@ -5,14 +5,11 @@ Manage your recent Calls and SMS msgs with: ★Tags  ✓Tasks  𑀫Appointme
 <a href="https://bowhip.org"><img style="height: 380px; margin-bottom:-0px; margin-top:0px;" src="https://bowhip.org/img/calling_application.png" alt="mobile calling application"></a> 
      
 <a href="https://bowhip.org">bowHip</a>  |  <a href="https://bowhip.org/bowHip_1.5.3.apk">Get<u>↓</u></a>  |  <a target="_blank" href="https://bowhip.blogspot.com/2022/02/bowhip-phone-call-sms-organizer-mobile.html">Support</a>  |  <a target="_blank" href="https://bowhip.org/Help-installing-apk-to-mobile-device.html">Help with install</a>  |  <a target="_blank" href="https://bowhip.org/about-me.htm">About me</a><br><br>
-https://bowhip.org/img/screen/2_8.png
-(https://bowhip.org/Mobile_Star_phone_calls.html)
-https://bowhip.org/Mobile_Star_phone_calls.html
 <hr /> 
 
 <small>**Mobile App**<br>
 Organize your recent phone calls & SMS msgs.<br>
-     ★<a href="https://bowhip.org/Mobile_Star_phone_calls.html" alt="star phone calls">Star</a> recent calls.  Task calls: ✓Done  •In- process  →Followup...<br><br>
+     ★<a href="https://bowhip.org/Mobile_Star_phone_calls.html" target="_blank" alt="star phone calls">Star</a> recent calls.  Task calls: ✓Done  •In- process  →Followup...<br><br>
 
 ADDITIONAL FEATURES<br>
      - <a href="https://bowhip.org/img/screen/3_8.png" alt="Mobile Appointments">Appointments</a>, Maps, Team collab
