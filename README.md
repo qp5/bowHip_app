@@ -9,7 +9,7 @@ Manage your recent Calls and SMS msgs with: ★Tags  ✓Tasks  𑀫Appointme
 
 <small>**Mobile App**<br>
 Organize your recent phone calls & SMS msgs.<br>
-     ★<a href="https://bowhip.org/Mobile_Star_phone_calls.html" target="_blank" alt="star phone calls">Star</a> recent calls.  Task calls: ✓Done  •In- process  →Followup...<br><br>
+     ★<a target="_blank" href="https://bowhip.org/Mobile_Star_phone_calls.html" alt="star phone calls">Star</a> recent calls.  Task calls: ✓Done  •In- process  →Followup...<br><br>
 
 ADDITIONAL FEATURES<br>
      - <a href="https://bowhip.org/img/screen/3_8.png" alt="Mobile Appointments">Appointments</a>, Maps, Team collab
