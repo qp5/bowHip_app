@@ -21,7 +21,7 @@ ADDITIONAL FEATURES<br>
  - Reminders, tags, filters & more...
 <br>
 **New Comunity**<br>
-Reward for first 2000 github installers! <a href="https://bowhip.org/#screenshots">Preview</a></small>
+Reward for first 2000 installers! <a href="https://bowhip.org/#screenshots">Preview</a></small>
 <br><br>
 **Use cases**<br>
 Normal use for bus. hobby, & personal use.<br>
