@@ -23,7 +23,7 @@ ADDITIONAL FEATURES<br>
 **New Comunity**<br>
 Reward for first 2000 installers! <a href="https://bowhip.org/#screenshots">Preview</a></small>
 <br><br>
-**Use cases**<br>
+Use cases<br>
 Normal use for bus. hobby, & personal use.<br>
 As well for <br>
        - Buying & selling stuff: Home goods, a phone, computer, promoting stuff, and phone shopping.<br>
