@@ -19,8 +19,9 @@ ADDITIONAL FEATURES<br>
  - Track referrals sent/received to affiliate.
  - <a href="https://bowhip.org/img/screen/7_8.png" alt="Mobile Appointments">EasyMsg</a> send pre-written SMS text msgs.
  - Calendar Shows your Tags and Appointments added from bowHip.
-
-**Other use cases**<br>
+<br>
+**Use cases**<br>
+Normal use case for bus. hobby & personal use.
 When using phone to buy & sell stuff:<br>
        - a pet, a phone or computer, promoting stuff, shopping for insurances & other services.<br>
        - Tag/rank calls that are potentials and were a purchase/sell is made.<br>
