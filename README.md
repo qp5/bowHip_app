@@ -25,7 +25,7 @@ Reward for first 2000 installers!  <a href="https://bowhip.org/bowHip_1.5.3.apk"
 <a href="https://bowhip.org/#screenshots">Preview</a></small>
 <br><br>
 Use cases<br>
-Normal use for bus. hobby, & personal use.<br>
+Normal use for business, hobby, & some personal use.<br>
 As well for <br>
        - Buying & selling stuff: Home goods, a phone, computer, promoting stuff, and phone shopping.<br>
        - Tagging/ranking potential calls /SMS.<br>
