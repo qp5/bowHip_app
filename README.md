@@ -20,11 +20,13 @@ ADDITIONAL FEATURES<br>
  - <a href="https://bowhip.org/Mobile_Easy_SMS_text_msgs.html" alt="Mobile Appointments">EasyMsg</a> send pre-written text msgs.
  - Reminders & tags
 <br>
+</small>
+
 **New Community**<br>
 Reward for first 2000 installers!  <a href="https://bowhip.org/bowHip_1.5.3.apk">Download<u>↓</u></a><br>
 <a href="https://bowhip.org/#screenshots">Preview</a></small>
 <br><br>
-Use cases<br>
+**Use cases**<br>
 Normal use for business and hobby.<br>
 Personal use includes:<br>
        - Buying & selling stuff: Home goods, a phone, computer, promoting stuff, and phone shopping.<br>
