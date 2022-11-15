@@ -13,7 +13,7 @@ Organize your recent phone calls & SMS msgs.<br>
      ✓<a target="_blank" href="https://bowhip.org/Mobile_taskbar_phone_tags.html" alt="Task recent calls">Task calls</a> ✓Done  •In- process  →Followup...<br><br>
 
 ADDITIONAL FEATURES<br>
-     - Appointments<a href="https://bowhip.org/Mobile_Appointments.html" alt="Mobile Appointments from recent calls">⍾ </a>&nbsp;  Maps<a href="https://bowhip.org/use-my-tablet-device-with-google-maps.html" alt="Map driving route from phone">߉ &nbsp;</a> Team collab<a href="https://bowhip.org/use-my-tablet-device-with-google-maps.html" alt="Map driving route from phone">⇆ &nbsp;</a>
+⍾Appointments<a href="https://bowhip.org/Mobile_Appointments.html" alt="Mobile Appointments from recent calls"> </a>&nbsp;  ߉Maps<a href="https://bowhip.org/use-my-tablet-device-with-google-maps.html" alt="Map driving route from phone"> &nbsp;</a> ⇆Team collab<a href="https://bowhip.org/use-my-tablet-device-with-google-maps.html" alt="Map driving route from phone"> &nbsp;</a>
  - Attach pics & vids for customer feedback.
  - Track sent/received referrals.
  - <a href="https://bowhip.org/Mobile_Easy_SMS_text_msgs.html" alt="Mobile Appointments">EasyMsg</a> send pre-written text msgs.
