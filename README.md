@@ -20,7 +20,7 @@ Organize your mobile phone calls & text msgs:  ⍾Appointments<a href="https://b
 </small>
 
 **New Community**<br>
-Reward for first 2000 installers!  <a href="https://bowhip.org/bowHip_1.5.3.apk"><small>Get</small><u>↓</u></a><br>
+Reward for first 2000 installers!  <a href="https://bowhip.org/bowHip_1.5.3.apk"><small>Get</small><u>↓</u></a><br>
 <a href="https://bowhip.org/#screenshots">Preview</a></small>
 <br><br>
 **Use cases**<br>
