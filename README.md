@@ -4,7 +4,7 @@ Manage recent Calls and Text msgs:&nbsp; ★Tags  ✓Tasks  𑀫Appointments
 
 <a href="https://bowhip.org"><img style="height: 380px; margin-bottom:-0px; margin-top:0px;" src="https://bowhip.org/img/calling_application.png" alt="mobile calling application"></a>
      
-<a href="https://bowhip.org">bowHip</a>  |  <a href="https://bowhip.org/bowHip_1.5.3.apk">Get<u>↓</u></a>  |  <a target="_blank" href="https://bowhip.blogspot.com/2022/02/bowhip-phone-call-sms-organizer-mobile.html">Support</a>  |  <a target="_blank" href="https://bowhip.org/Help-installing-apk-to-mobile-device.html">Help with install</a>  |  <a target="_blank" href="https://bowhip.org/about-me.htm">About me</a><br><br>
+<a href="https://bowhip.org">bowHip</a>  |  <a href="https://bowhip.org/bowHip_2.5.apk">Get<u>↓</u></a>  |  <a target="_blank" href="https://bowhip.blogspot.com/2022/02/bowhip-phone-call-sms-organizer-mobile.html">Support</a>  |  <a target="_blank" href="https://bowhip.org/Help-installing-apk-to-mobile-device.html">Help with install</a>  |  <a target="_blank" href="https://bowhip.org/about-me.htm">About me</a><br><br>
 <hr /> 
 
 <small>**Mobile App**<br>
@@ -20,7 +20,7 @@ Organize your mobile phone calls & text msgs:  ⍾Appointments<a href="https://b
 </small>
 
 **New Community**<br>
-Reward for first 2000 installers!  <a href="https://bowhip.org/bowHip_1.5.3.apk"><small>Install</small><u>↓</u></a><br>
+Reward for first 2000 installers!  <a href="https://bowhip.org/bowHip_2.5.apk"><small>Install</small><u>↓</u></a><br>
 <a href="https://bowhip.org/#screenshots">Preview</a></small>
 <br><br>
 **Use cases**<br>
