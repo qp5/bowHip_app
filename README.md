@@ -37,7 +37,7 @@ Reward for first 2000 installers!  <a href="https://bowhip.org/bowHip_2.5.apk"
 ▹ Personal use includes:<br>
       - Tag calls/text as ★reminders (links with cal).<br>
       - Use for things like phone shopping & selling: a ✆phone,  🗀computer,  🐢pet<br>
-      - Ranking⚐ potential calls/SMS. <br>
+      - Ranking⚐ potential calls/text. <br>
       - Great for temporary ⍾contacts. ‮‭‬‭‎‍<br>
 
 <hr />
