@@ -1,9 +1,3 @@
-<style>
-  .no-underline {
-    text-decoration: none;
-  }
-</style>
-
 # bowHip
 <b>Android Mobile App ‒ AI Assistant:</b>&nbsp;<br>
 Manage recent Calls and Text msgs:&nbsp; ★Tags  ✓Tasks  𑀫Appointments  ߉Maps  ⇄Team Collab&nbsp; 🗪EasySMS  ★Reviews.<br>
