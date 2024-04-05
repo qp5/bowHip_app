@@ -9,13 +9,17 @@ Manage recent Calls and Text msgs:&nbsp; ★Tags  ✓Tasks  𑀫Appointments
 
 <small>**Mobile App**<br>
 Organize your mobile phone calls & text msgs:  ⍾Appointments<a href="https://bowhip.org/Mobile_Appointments.html" alt="Mobile Appoipntments from recent calls"> </a>&nbsp;  ߉Maps<a href="https://bowhip.org/use-my-tablet-device-with-google-maps.html" alt="Map driving route from phone"> &nbsp;</a> ⇆Team collab<a href="https://bowhip.org/use-my-tablet-device-with-google-maps.html" alt="Map driving route from phone"> &nbsp;</a>
- - Integrate with Calendar.
- - Attach pics & vids for customer feedback.
- - Track referrals
+
+ - Set Appointments — ai Assist - 
+ - Calendar integration.
+ - ✓<a target="_blank" href="https://bowhip.org/Mobile_taskbar_phone_tags.html" alt="Task recent calls">Task calls</a> ✓Done  •In- process  →Followup...<br><br>
+ - Collab
+ - Attach pics & vids to text /request Feedback.
+ - Track referrals within your network
  - <a href="https://bowhip.org/Mobile_Easy_SMS_text_msgs.html" alt="Mobile Appointments">EasyMsg</a> send pre-written text msgs.
  - Reminders & tags
  ★<a target="_blank" href="https://bowhip.org/Mobile_Star_phone_calls.html" alt="star phone calls">Star</a> recent calls. &nbsp;  <br>
- ✓<a target="_blank" href="https://bowhip.org/Mobile_taskbar_phone_tags.html" alt="Task recent calls">Task calls</a> ✓Done  •In- process  →Followup...<br><br>
+ 
 <br>
 </small>
 
