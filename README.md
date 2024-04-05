@@ -1,5 +1,5 @@
 # bowHip
-<b>Android Mobile App ‒ AI Assistan-:</b>&nbsp;<br>
+<b>Android Mobile App ‒ AI Assistant:</b>&nbsp;<br>
 Manage recent Calls and Text msgs:&nbsp; ★Tags  ✓Tasks  𑀫Appointments  ߉Maps  ⇄Team Collab&nbsp; 🗪EasySMS  ★Reviews.<br>
 
 <a href="https://bowhip.org"><img style="height: 380px; margin-bottom:-0px; margin-top:0px;" src="https://bowhip.org/img/calling_application.png" alt="mobile calling application"></a>
@@ -8,9 +8,9 @@ Manage recent Calls and Text msgs:&nbsp; ★Tags  ✓Tasks  𑀫Appointments
 <hr /> 
 
 <small>**Mobile App**<br>
-Organize your mobile phone calls & text msgs:  ⍾Appointments<a href="https://bowhip.org/Mobile_Appointments.html" alt="Mobile Appoipntments from recent calls"> </a>&nbsp;  ߉Maps<a href="https://bowhip.org/use-my-tablet-device-with-google-maps.html" alt="Map driving route from phone"> &nbsp;</a> ⇆Team collab<a href="https://bowhip.org/use-my-tablet-device-with-google-maps.html" alt="Map driving route from phone"> &nbsp;</a>
+Organize your mobile phone calls & text msgs:  ⍾Appointments<a href="https://bowhip.org/Mobile_Appointments.html" alt="Mobile Appoipntments from recent calls"> #</a>&nbsp;  ߉Maps<a href="https://bowhip.org/use-my-tablet-device-with-google-maps.html" alt="Map driving route from phone"> #</a> ⇆Team collab<a href="https://bowhip.org/use-my-tablet-device-with-google-maps.html" alt="Map driving route from phone"> #</a>
 
- - Set Appointments — ai assist - 
+ - Set Appointments — ai assist
  - Calendar integration.
  - <a target="_blank" href="https://bowhip.org/Mobile_taskbar_phone_tags.html" alt="Task recent calls">Task calls</a>: ✓Done  ● In-process  → Followup...<br><br>
  - Team Collab — ai assisttant.
