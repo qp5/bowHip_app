@@ -33,12 +33,14 @@ Reward for first 2000 installers!  <a href="https://bowhip.org/bowHip_2.5.apk"
 <a href="https://bowhip.org/#screenshots">Preview</a></small>
 <br><br>
 **Use cases**<br>
-Normal use for business and hobby.<br>
-Personal use includes:<br>
-       - Buying & selling stuff: Home goods, a phone, computer, promoting stuff, and phone shopping.<br>
-       - Tagging/ranking potential calls /SMS.<br>
-       - Creating temporary contacts & potential.  <br>
+▹ Normal use for business and hobby.<br>
+▹ Personal use includes:<br>
+      - Tag calls/text as ★reminders (links with cal).
+      - Use for things like phone shopping & selling: a ✆phone,  computer,  🐈pet🐢<br>
+      - Ranking⚐ potential calls/SMS. <br>
+      - Great for temporary ⍾contacts. ‮‭‬‭‎‍<br>
 
 <hr />
 Other projects: <a href="https://github.com/qp5/FONT">FONT typeface</a>  |  <a target="_blank" href="https://codepen.io/qp5/full/WNGbLBy">Style your Mobile device</a>  |   <a target="_blank" href="https://codepen.io/qp5/project/full/ZmBrJo">Style windows 10 /11 </a>
 
+      
