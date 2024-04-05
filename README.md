@@ -16,7 +16,7 @@ Manage recent Calls and Text msgs:&nbsp; ★Tags  ✓Tasks  𑀫Appointments
 <small>**Mobile App**<br>
 Organize your mobile phone calls & text msgs:  ⍾Appointments<a href="https://bowhip.org/Mobile_Appointments.html" alt="Mobile Appoipntments from recent calls"> ⁪‍ </a>&nbsp;  ߉Maps<a href="https://bowhip.org/use-my-tablet-device-with-google-maps.html"  alt="Map driving route from phone"> ⁪‍ </a> ⇆Team collab<a href="https://bowhip.org/use-my-tablet-device-with-google-maps.html"  alt="Map driving route from phone"> ⁪‍ </a>
 
- - Set Appointments — ai assist
+ - Set appointments — ai assist
  - Calendar integration.
  - <a target="_blank" href="https://bowhip.org/Mobile_taskbar_phone_tags.html" alt="Task recent calls">Task calls</a>: ✓Done  ● In-process  → Followup...<br>
  - Team Collab — ai assisttant.
@@ -28,7 +28,7 @@ Organize your mobile phone calls & text msgs:  ⍾Appointments<a href="https://b
 <br>
 </small>
 
-**New Community**<br>
+**Were a new Community**<br>
 Reward for first 2000 installers!  <a href="https://bowhip.org/bowHip_2.5.apk"><small>Install</small><u>↓</u></a><br>
 <a href="https://bowhip.org/#screenshots">Preview</a></small>
 <br><br>
