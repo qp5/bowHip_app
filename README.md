@@ -1,3 +1,9 @@
+<style>
+  .no-underline {
+    text-decoration: none;
+  }
+</style>
+
 # bowHip
 <b>Android Mobile App ‒ AI Assistant:</b>&nbsp;<br>
 Manage recent Calls and Text msgs:&nbsp; ★Tags  ✓Tasks  𑀫Appointments  ߉Maps  ⇄Team Collab&nbsp; 🗪EasySMS  ★Reviews.<br>
@@ -8,7 +14,7 @@ Manage recent Calls and Text msgs:&nbsp; ★Tags  ✓Tasks  𑀫Appointments
 <hr /> 
 
 <small>**Mobile App**<br>
-Organize your mobile phone calls & text msgs:  ⍾Appointments<a href="https://bowhip.org/Mobile_Appointments.html" alt="Mobile Appoipntments from recent calls">#</a>&nbsp;  ߉Maps<a href="https://bowhip.org/use-my-tablet-device-with-google-maps.html" alt="Map driving route from phone">#</a> ⇆Team collab<a href="https://bowhip.org/use-my-tablet-device-with-google-maps.html" alt="Map driving route from phone">#</a>
+Organize your mobile phone calls & text msgs:  ⍾Appointments<a href="https://bowhip.org/Mobile_Appointments.html" class="no-underline" alt="Mobile Appoipntments from recent calls">#</a>&nbsp;  ߉Maps<a href="https://bowhip.org/use-my-tablet-device-with-google-maps.html" alt="Map driving route from phone">#</a> ⇆Team collab<a href="https://bowhip.org/use-my-tablet-device-with-google-maps.html" alt="Map driving route from phone">#</a>
 
  - Set Appointments — ai assist
  - Calendar integration.
