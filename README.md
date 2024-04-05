@@ -1,5 +1,5 @@
 # bowHip
-<b>Android ‒ productivity app:</b>&nbsp;<br>
+<b>Android Mobile App ‒ AI Assistan-:</b>&nbsp;<br>
 Manage recent Calls and Text msgs:&nbsp; ★Tags  ✓Tasks  𑀫Appointments  ߉Maps  ⇄Team Collab&nbsp; 🗪EasySMS  ★Reviews.<br>
 
 <a href="https://bowhip.org"><img style="height: 380px; margin-bottom:-0px; margin-top:0px;" src="https://bowhip.org/img/calling_application.png" alt="mobile calling application"></a>
@@ -10,10 +10,10 @@ Manage recent Calls and Text msgs:&nbsp; ★Tags  ✓Tasks  𑀫Appointments
 <small>**Mobile App**<br>
 Organize your mobile phone calls & text msgs:  ⍾Appointments<a href="https://bowhip.org/Mobile_Appointments.html" alt="Mobile Appoipntments from recent calls"> </a>&nbsp;  ߉Maps<a href="https://bowhip.org/use-my-tablet-device-with-google-maps.html" alt="Map driving route from phone"> &nbsp;</a> ⇆Team collab<a href="https://bowhip.org/use-my-tablet-device-with-google-maps.html" alt="Map driving route from phone"> &nbsp;</a>
 
- - Set Appointments — ai Assist - 
+ - Set Appointments — ai assist - 
  - Calendar integration.
- - ✓<a target="_blank" href="https://bowhip.org/Mobile_taskbar_phone_tags.html" alt="Task recent calls">Task calls</a> ✓Done  ● In-process  → Followup...<br><br>
- - Collab
+ - <a target="_blank" href="https://bowhip.org/Mobile_taskbar_phone_tags.html" alt="Task recent calls">Task calls</a>: ✓Done  ● In-process  → Followup...<br><br>
+ - Team Collab — ai assisttant.
  - Attach pics & vids to text /request Feedback.
  - Track referrals within your network
  - <a href="https://bowhip.org/Mobile_Easy_SMS_text_msgs.html" alt="Mobile Appointments">EasyMsg</a> send pre-written text msgs.
