@@ -3,7 +3,7 @@
 A unique highbred app, integrates with default dialer & SMS app.<br>
 
 
-<a href="https://bowhip.org"><img style="height: 380px; margin-bottom:-0px; margin-top:0px;" src="https://bowhip.org/img/calling_application.png" alt="mobile calling application"></a>
+<a href="https://bowhip.org"><img style="height: 380px; margin-bottom:-0px; margin-top:0px;" src="https://bowhip.org/img/calling_application.png" alt="mobile calling application"></a><br>
 Manage recent Calls and Text msgs:&nbsp; ★Tags  ✓Tasks  𑀫Appointments  ߉Maps  ⇄Team Collab&nbsp; 🗪EasySMS  ★Reviews.<br>
 <a href="https://bowhip.org">bowHip</a>  |  <a href="https://bowhip.org/bowHip_4.0.0.apk">Get<u>↓</u></a>  |  <a target="_blank" href="https://bowhip.blogspot.com/2022/02/bowhip-phone-call-sms-organizer-mobile.html">Support</a>  |  <a target="_blank" href="https://bowhip.org/Help-installing-apk-to-mobile-device.html">Help with install</a>  |  <a target="_blank" href="https://bowhip.org/about-me.htm">About me</a><br><br>
 <hr /> 
