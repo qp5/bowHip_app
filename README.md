@@ -1,6 +1,6 @@
 # bowHip
 <b>Android Mobile App ‒ AI Assistant</b>&nbsp;<br>
-A unique highbred app, integrates with default dialer & SMS app.<br>
+Unique highbred app, integrates with your default dialer & SMS app.<br>
 
 
 <a href="https://bowhip.org"><img style="height: 380px; margin-bottom:-0px; margin-top:0px;" src="https://bowhip.org/img/calling_application.png" alt="mobile calling application"></a><br>
